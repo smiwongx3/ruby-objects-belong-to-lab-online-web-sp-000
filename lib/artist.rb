@@ -1,3 +1,3 @@
 class Song 
-  attr_accessor.$FILENAME
+  attr_accessor :name 
 end 
